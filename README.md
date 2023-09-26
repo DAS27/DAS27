@@ -17,28 +17,30 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name is Damir, I'm sowfware developer. Falling in love with tech. For the last few years I work as junior php-developer.
+My name is Damir, and I'm a full-stack software developer with a passion for technology. Over the years, I've gained experience in developing highload systems and API, working on projects in areas like E-commerce, Med.tech, and Digital-marketing.
 
-👌  PHP, Yii2, Laravel, MySql
+👌  PHP 7-8 [Yii2, Laravel, Symfony]
 
-🤏  Java Script, Vue3.js, React
+🤏  GoLang, Java
 
-👉  GoLang, React
+👉  Vue2-3, Nuxt
 
 📚:
 1. Robert Martin
     1. The Clean Coder. A Code of Conduct for Professional Programmers
     2. Clean Code. A Handbook of Agile Software Craftsmanship
+2. Head First Design Patterns: A Brain-Friendly Guide
+3. Grokking Algorithms: An illustrated guide for programmers and other curious people
+4. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 
 My LinkedIn: [Damir Sarkulin](https://www.linkedin.com/in/damir-sarkulin-7987341b5/)
 
 ### 🙋🏻‍♂️ About me 
 
-Hey, I'm Damir, Sowfware Developer. Geek and a lover of everything related to technology. Also I love sport and fishing. 
+I'm a dedicated father, son, and loving husband. I'm blessed with a wonderful wife, Anel, and together we have a precious son, Amir.
 
-Right now I'm working in Tatneft as web-developer.
+Beyond my passion for technology and coding, I'm an enthusiast of Brazilian Jiu-Jitsu and a steadfast supporter of Manchester United Football Club. In our free time, my family and I cherish moments spent in the mountains, connecting with nature and each other.
 
-👨‍🎓 I'm currently learning GoLang and Java Script.
+👨‍🎓 Lifelong learner here, currently deepening my knowledge in GoLang
 
 - 💬 You can ask me anything you want on Telegram - [@DVMIR_27](https://t.me/DVMIR_27);
-- 📝 [Resume](https://hh.kz/resume/aac92bb1ff07063d650039ed1f414878426b47)
