@@ -1,46 +1,31 @@
-<!--
-**DAS27/DAS27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Damir
 
-Here are some ideas to get you started:
+**Senior Backend Engineer & Engineering Leader — Fintech / Payments**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+8+ years building high-load backend systems and payment infrastructure. I design and ship the parts that must never lose money: KYC/AML, banking integrations, idempotent transaction processing and the Money pattern. Most recently CTO & technical co-founder of a fintech/legaltech startup.
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DAS27&left_color=red&right_color=green)
+🚀 **Highlights**
+- Built a fintech platform from scratch as **CTO** → **$5M valuation**, **70,000+ users**, **2B+ KZT** processed
+- 3 years senior backend on a virtual-cards / BaaS product (**100,000+ users**): full KYC, bank webhooks, async transactions
+- Led a 5-person engineering team — hiring, mentoring, code review, architecture
 
-### Hi there 👋
+🛠 **Stack**
+- **Backend:** PHP 8 (Laravel, Symfony, Yii2), REST APIs, Clean Architecture / SOLID
+- **Data:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+- **Infra:** Docker, Nginx, CI/CD, queues, retry/idempotency
+- **Frontend:** TypeScript, Vue/Nuxt, React
+- 🌱 **Currently learning:** Go for backend services
 
-My name is Damir, and I'm a full-stack software developer with a passion for technology. Over the years, I've gained experience in developing highload systems and API, working on projects in areas like E-commerce, Med.tech, and Digital-marketing.
+📊 **GitHub**
 
-👌  PHP 7-8 [Yii2, Laravel, Symfony]
+![Damir's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAS27&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DAS27&layout=compact&hide_border=true)
 
-🤏  GoLang, Java
+📫 **Reach me**
+- LinkedIn: [damir-sarkulin](https://www.linkedin.com/in/damir-sarkulin/)
+- Telegram: [@DVMIR_27](https://t.me/DVMIR_27)
+- Email: sarkulindamir@gmail.com
 
-👉  Vue2-3, Nuxt
+---
 
-📚:
-1. Robert Martin
-    1. The Clean Coder. A Code of Conduct for Professional Programmers
-    2. Clean Code. A Handbook of Agile Software Craftsmanship
-2. Head First Design Patterns: A Brain-Friendly Guide
-3. Grokking Algorithms: An illustrated guide for programmers and other curious people
-4. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
-
-My LinkedIn: [Damir Sarkulin](https://www.linkedin.com/in/damir-sarkulin-7987341b5/)
-
-### 🙋🏻‍♂️ About me 
-
-I'm a dedicated father, son, and loving husband. I'm blessed with a wonderful wife, Anel, and together we have a precious son, Amir.
-
-Beyond my passion for technology and coding, I'm an enthusiast of Brazilian Jiu-Jitsu and a steadfast supporter of Manchester United Football Club. In our free time, my family and I cherish moments spent in the mountains, connecting with nature and each other.
-
-👨‍🎓 Lifelong learner here, currently deepening my knowledge in GoLang
-
-- 💬 You can ask me anything you want on Telegram - [@DVMIR_27](https://t.me/DVMIR_27);
+🥋 Brazilian Jiu-Jitsu · 🔴 Manchester United · 🏔 mountains with my family. Lifelong learner, dad, husband.
