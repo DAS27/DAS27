@@ -16,11 +16,6 @@
 - **Frontend:** TypeScript, Vue/Nuxt, React
 - 🌱 **Currently learning:** Go for backend services
 
-📊 **GitHub**
-
-![Damir's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAS27&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DAS27&layout=compact&hide_border=true)
-
 📫 **Reach me**
 - LinkedIn: [damir-sarkulin](https://www.linkedin.com/in/damir-sarkulin/)
 - Telegram: [@DVMIR_27](https://t.me/DVMIR_27)
